@@ -1,6 +1,6 @@
 <div align="center">
 
-![wave banner](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Danyal%20Noorani&section=header&reversal=false&textBg=false&animation=fadeIn)
+[![wave banner](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Danyal%20Noorani&section=header&reversal=false&textBg=false&animation=fadeIn)](https://github.com/Danyal-noorani)
 
 
 </div>
