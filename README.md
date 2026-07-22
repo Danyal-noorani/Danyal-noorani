@@ -1,13 +1,13 @@
 <div align="center">
 
 ![wave banner](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Danyal%20Noorani&section=header&reversal=false&textBg=false&animation=fadeIn)
-<!-- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=460&lines=Hi+there%2C+I'm+Danyal+%F0%9F%91%8B;Software+Engineer+%26+Builder;Turning+coffee+into+code+%E2%98%95;Always+shipping+something+new+%F0%9F%9A%80)](https://github.com/Danyal-noorani) -->
+
 
 </div>
 
 <table>
 <tr>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danyal-noorani-6ba9083b7/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21089481/danyal-noorani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nooranidanyal@gmail.com)
 
