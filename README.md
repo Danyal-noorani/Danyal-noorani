@@ -1,8 +1,10 @@
 <div align="center">
 
-[![wave banner](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Hi%20there!%20I'm%20Danyal&reversal=false&animation=fadeIn)](https://github.com/Danyal-noorani)
-
-
+[![wave banner](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Hi%20there!%20I'm%20Danyal&reversal=false&animation=fadeIn)](https://portfolio-livid-zeta-85.vercel.app/)
+<br>
+<div style={{text:#000000}}>
+click on the banner to checkout my website
+</div>
 </div>
 
 <table>
